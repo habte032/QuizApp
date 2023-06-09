@@ -24,5 +24,7 @@ To run this app, follow these steps:
 
 To start a new round of questions, you can tap the refresh icon. This will clear your score and start the quiz from the first question again.
 
-- If you have answered more than 10 questions correctly, the "True" and "False" buttons, as well as the navigation buttons, will be hidden. You will see a summary of your score and a "Next Round" button to start a new round.
+If you have finished 10 questions
+- The "True" and "False" buttons and the navigation buttons, will be hidden.
+- You will see a summary of your score and a "Next Round" button to start a new round.
 
