@@ -1,13 +1,13 @@
-##Quiz App
+# Quiz App
 This is a simple quiz app built using Flutter. It presents a series of true/false questions to the user and allows them to answer and keep track of their score.
 
-#Features
+## Features
 Presents true/false questions to the user
 Tracks the user's score based on their answers
 Provides navigation options to move between questions
 Refreshes the quiz for a new round of questions
 
-#Getting Started
+## Getting Started
 To run this app, follow these steps:
 
 Install Flutter
@@ -15,7 +15,7 @@ Clone the repository or download the source code for the Quiz App.
 Open the project in your preferred code editor.
 Run the main.dart file to launch the app.
 
-#Usage
+## Usage
 Upon launching the app, you will be presented with a true/false question. You can answer the question by selecting either the "True" or "False" button.
 
 If your answer is correct, an icon with a green checkmark will be displayed, and your score will increase by 1.
