@@ -1,4 +1,4 @@
-#Quiz App
+##Quiz App
 This is a simple quiz app built using Flutter. It presents a series of true/false questions to the user and allows them to answer and keep track of their score.
 
 #Features
